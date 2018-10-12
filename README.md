@@ -27,3 +27,7 @@ Works with python 3.6
 
     # do your stuff
     # ...
+
+# Usage
+
+    >> python master.py
