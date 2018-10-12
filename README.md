@@ -5,6 +5,8 @@ With this package you can start a python script in a new subprocess from a maste
 
 Just instantiate the two classes in your master and slave script, and that's it.
 
+Works with python 3.6
+
 # Example
 ## master
 
